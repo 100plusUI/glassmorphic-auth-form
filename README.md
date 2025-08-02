@@ -19,7 +19,7 @@
 1. Клонировать репозиторий:
    
    ```bash
-   git clone https://github.com/ArkaParka/glassmorphic-auth-form.git
+   git clone https://github.com/100plusUI/glassmorphic-auth-form.git
    ```
 
 2. Открыть index.html в браузере
